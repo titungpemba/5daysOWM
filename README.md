@@ -36,5 +36,5 @@ python3 5daysOWM.py
 
 # Hooray! 5daysOWM is running 
 ```
-### Screenshot
-<a data-flickr-embed="true" data-header="true" data-context="true" href="https://www.flickr.com/photos/187412877@N05/49657980612/in/dateposted-public/" title="Screenshot from 2020-03-08 23-44-32"><img src="https://live.staticflickr.com/65535/49657980612_1f927bc566.jpg" width="500" height="281" alt="Screenshot from 2020-03-08 23-44-32"></a>
+### Demo
+<img src="https://media.giphy.com/media/MEG8QeeyQRfbHrkUJD/giphy.gif"/>
