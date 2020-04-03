@@ -7,6 +7,7 @@ complete_url = base_url + "?q=" + name_of_the_place + "&appid=" + app_id
 #print(complete_url)
 json_data = requests.get(complete_url).json()
 #print(json_data)
+
 name_of_the_city = json_data['city']['name']
 print(name_of_the_city)
 city_lat = json_data['city']['coord']['lat']
